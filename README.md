@@ -27,6 +27,8 @@ Power BI for data visualization
 
 SQL / Excel for data preparation
 
+Video Explanation = (https://www.linkedin.com/posts/ayush-shroff-348197389_powerbi-dataanalytics-businessintelligence-ugcPost-7485301470582468608-Voxe/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF-Z5igBjCgsj_i0rB73UFV5j5VIEnGepf4)
+
 Priview ([https://github.com/ayushshroff011-maker/Caratlane-Dashbord/upload/main](https://github.com/ayushshroff011-maker/Caratlane-Dashbord/blob/main/Caratlane%20Dashbord%20png.png))
 <img width="1188" height="650" alt="image" src="https://github.com/user-attachments/assets/0450ad6c-b812-495f-a95a-30d3ccfb5a51" />
 
