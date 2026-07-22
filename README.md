@@ -28,5 +28,7 @@ Power BI for data visualization
 SQL / Excel for data preparation
 
 Priview ([https://github.com/ayushshroff011-maker/Caratlane-Dashbord/upload/main](https://github.com/ayushshroff011-maker/Caratlane-Dashbord/blob/main/Caratlane%20Dashbord%20png.png))
+<img width="1188" height="650" alt="image" src="https://github.com/user-attachments/assets/0450ad6c-b812-495f-a95a-30d3ccfb5a51" />
+
 🚀 Purpose
 Designed to help stakeholders quickly identify top-performing regions, products, and sales representatives — driving better business strategies and operational efficiency.# Caratlane-Dashbord
